@@ -1,0 +1,14 @@
+{
+  "icon": "littleton.png",
+  "name": "Littleton",
+  "authors": [
+    "Thaylar"
+  ],
+  "desc": "Welcome to Littleton!  Your own little forest community.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

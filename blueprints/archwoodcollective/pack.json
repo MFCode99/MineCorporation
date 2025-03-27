@@ -1,0 +1,15 @@
+{
+  "icon": "archwoodcollective.png",
+  "name": "Archwood Collective",
+  "authors": [
+    "Teareese", "Shadizar (Shadizar0 on Twitch)", "FuturisticAce7"
+  ],
+  "desc": "Archwood Collective: a magical colony featuring Ars Nouveau. Help the Archwood Collective mages resettle into a peaceful, cooperative colony of magical studies!",
+  "mods": [
+  "minecolonies",
+  "ars_nouveau",
+  "biomesoplenty"
+  ],
+  "version": "15",
+  "pack-format": "1"
+}

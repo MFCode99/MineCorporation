@@ -1,0 +1,16 @@
+{
+  "icon": "CastleSky.png",
+  "name": "Castles in the Sky",
+  "authors": [
+    "Lady Kathleen"
+  ],
+  "desc": "This would be considered a Difficult build. Supplementaries (Must Have)
+Create (Optional so far)  This is a Sky Build.  You build Islands and Castles in the sky. ",  
+  "mods": [
+  "structurize",
+  "supplementaries",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

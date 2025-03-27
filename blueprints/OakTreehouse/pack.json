@@ -1,0 +1,13 @@
+{
+  "icon": "oaktreehouse.png",
+  "name": "Oak Treehouse",
+  "authors": [
+    "BRMD7077","Drevlin"
+  ],
+  "desc": "Welcome to Oak Hell >:D || Also the ~3x3 chunk supply camp has a readme book",
+  "mods": [
+  "minecolonies"
+  ],
+  "version": "8.1",
+  "pack-format": "1"
+}
