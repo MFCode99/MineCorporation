@@ -1,4 +1,18 @@
 {
+  securitycraft: {
+    // Display Owner?
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    showowner: true,
+    // Show Modules?
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    showmodules: true,
+    // Show named blocks?
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    showcustomname: true
+  },
   vampirism: {
     // config.waila.plugin_vampirism.show_creature_info
     // Default value: [true]
