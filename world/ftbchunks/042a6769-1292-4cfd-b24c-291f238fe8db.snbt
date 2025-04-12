@@ -1,0 +1,47 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1743967050692L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -1, z: -7, time: 1743168323870L }
+			{ x: 2, z: -3, time: 1743168323870L, force_loaded: 1743259405982L }
+			{ x: 0, z: -7, time: 1743168323870L }
+			{ x: 1, z: -4, time: 1743121069657L, force_loaded: 1743121074046L }
+			{ x: 2, z: -5, time: 1743121069657L, force_loaded: 1743121074045L }
+			{ x: 3, z: -5, time: 1743168323870L }
+			{ x: 0, z: -6, time: 1743121069657L, force_loaded: 1743121074045L }
+			{ x: 0, z: -2, time: 1743259402625L, force_loaded: 1743259406868L }
+			{ x: 1, z: -5, time: 1743121069657L, force_loaded: 1743121071745L }
+			{ x: 3, z: -4, time: 1743168323870L }
+			{ x: 2, z: -4, time: 1743121069657L, force_loaded: 1743121074046L }
+			{ x: -1, z: -6, time: 1743168323870L }
+			{ x: 1, z: -3, time: 1743168323870L, force_loaded: 1743259405982L }
+			{ x: 2, z: -2, time: 1743259402625L }
+			{ x: -1, z: -2, time: 1743259402625L }
+			{ x: 3, z: -6, time: 1743168323870L }
+			{ x: 2, z: -6, time: 1743121069658L, force_loaded: 1743121074046L }
+			{ x: 3, z: -3, time: 1743168323870L }
+			{ x: -1, z: -4, time: 1743168323870L }
+			{ x: 3, z: -7, time: 1743168323870L }
+			{ x: 1, z: -2, time: 1743259402625L, force_loaded: 1743259406867L }
+			{ x: 0, z: -4, time: 1743121069657L, force_loaded: 1743121074045L }
+			{ x: 2, z: -7, time: 1743168323870L }
+			{ x: -1, z: -5, time: 1743168323870L }
+			{ x: 1, z: -6, time: 1743121069655L, force_loaded: 1743121074045L }
+			{ x: 0, z: -3, time: 1743168323870L, force_loaded: 1743259405982L }
+			{ x: -1, z: -3, time: 1743168323870L }
+			{ x: 0, z: -5, time: 1743121069658L, force_loaded: 1743121074046L }
+			{ x: 3, z: -2, time: 1743259402625L }
+			{ x: 1, z: -7, time: 1743168323870L }
+		]
+		"compactmachines:compact_world": [{ x: 64, z: 0, time: 1743363271392L, force_loaded: 1743363272281L }]
+	}
+	member_data: {
+		2c7a61ba-0668-4aaf-9352-bb4da7508eb9: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}

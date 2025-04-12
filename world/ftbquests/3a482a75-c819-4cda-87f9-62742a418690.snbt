@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3a482a75c8194cda87f962742a418690"
+	name: "SpongeBob_69#3a482a75"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

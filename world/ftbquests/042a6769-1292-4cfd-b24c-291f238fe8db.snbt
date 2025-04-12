@@ -1,0 +1,17 @@
+{
+	version: 1
+	uuid: "042a676912924cfdb24c291f238fe8db"
+	name: "MLabCorp#042a6769"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		2c7a61ba06684aaf9352bb4da7508eb9: {
+			can_edit: 1b
+			chapter_pinned: 1b
+		}
+	}
+}

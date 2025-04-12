@@ -1,0 +1,22 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: "GhostOfSparta321"
+	last_seen: { dim: "minecraft:overworld", x: -5, y: 63, z: 134, time: 1743865581658L, xRot: 15.150453f, yRot: 177.57446f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -10, y: 74, z: 132, time: 1743461112494L }
+		{ dim: "minecraft:the_end", x: -8, y: 135, z: 10044, time: 1743461593663L }
+		{ dim: "minecraft:the_end", x: 96, y: 91, z: -9982, time: 1743595409413L }
+		{ dim: "minecraft:the_end", x: -83, y: 87, z: -10027, time: 1743595835946L }
+		{ dim: "minecraft:the_end", x: -53, y: 112, z: -9902, time: 1743596249312L }
+		{ dim: "minecraft:the_end", x: -97, y: 111, z: -9982, time: 1743596289463L }
+		{ dim: "minecraft:overworld", x: -3, y: 79, z: 134, time: 1743629976407L, xRot: 10.650721f, yRot: -14.111206f }
+		{ dim: "minecraft:overworld", x: -4, y: 63, z: 134, time: 1743630675472L, xRot: 9.600472f, yRot: 142.48547f }
+		{ dim: "minecraft:overworld", x: 39, y: 70, z: -48, time: 1743767232338L }
+		{ dim: "minecraft:the_end", x: -105, y: 114, z: -19981, time: 1743803242923L }
+	]
+	homes: { }
+	kit_use_times: { }
+}

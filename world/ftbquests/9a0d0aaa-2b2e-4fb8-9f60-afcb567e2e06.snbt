@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9a0d0aaa2b2e4fb89f60afcb567e2e06"
+	name: "GhostOfSparta321#9a0d0aaa"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
