@@ -290,7 +290,7 @@
     "energy.enabled_entity": true,
     // Energy Blacklist
     // Custom config, open the following file
-    // extra\energy_blacklist.json5
+    // extra/energy_blacklist.json5
     "energy.blacklist": null,
     // Show Block Fluid Contents
     // Require server to have WTHIT installed, if not, will be locked to [false]
@@ -306,7 +306,7 @@
     "fluid.display_unit": "MILLIBUCKETS",
     // Fluid Contents Blacklist
     // Custom config, open the following file
-    // extra\fluid_blacklist.json5
+    // extra/fluid_blacklist.json5
     "fluid.blacklist": null,
     // Show Block Crafting Progress
     // Require server to have WTHIT installed, if not, will be locked to [false]
@@ -318,7 +318,7 @@
     "progress.enabled_entity": true,
     // Crafting Progress Blacklist
     // Custom config, open the following file
-    // extra\progress_blacklist.json5
+    // extra/progress_blacklist.json5
     "progress.blacklist": null,
     // Show Block Item Contents
     // Require server to have WTHIT installed, if not, will be locked to [false]
@@ -350,7 +350,7 @@
     "item.grid_mode_scale": 1.0,
     // Item Contents Blacklist
     // Custom config, open the following file
-    // extra\item_blacklist.json5
+    // extra/item_blacklist.json5
     "item.blacklist": null
   }
 }
